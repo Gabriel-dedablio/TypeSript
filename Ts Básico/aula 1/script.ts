@@ -13,11 +13,11 @@ const barato = preco < 200 ? true : 'produto caro';
 
 console.log(barato);
 
-function somar(a: number, b: number) {
-  return a + b
-}
+// function somar(a: number, b: number) {
+//   return a + b
+// }
 
-somar(4, 10);
+// somar(4, 10);
 
 const nintendo = {
   nome: "Nintendo",
